@@ -1,12 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>End-to-End Sports Data Analytics Project</title>
-</head>
 <body>
-   <h1>End-to-End Sports Data Analytics Project</h1>
+   <h1>T20 Cricket Data Analytics PowerBI Project</h1>
     
    <img src="images/dashboard_screenshot1.jpg" alt="Dashboard Screenshot" style="max-width: 100%;">
    <img src="images/dashboard_screenshot2.jpg" alt="Dashboard Screenshot" style="max-width: 100%;">
